@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/dark_github.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/images/light_github.svg" />
-  <img alt="Muhammad Umar" src="/images/dark_github.svg" width="100%" />
-</picture>
 
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">I am A web and mobile app developer & Real-time firebase Developer based in Pakistan.</h3>
