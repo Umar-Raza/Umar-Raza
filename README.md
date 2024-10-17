@@ -1,6 +1,4 @@
-<picture>
-  <img alt="Muhammad Umar" src="/images/githubBanner.jpg" width="100%" />
-</picture>
+  ![Muhammad Umar](https://drive.google.com/file/d/1EfJzn_ECQDqWR3IJvJ3khdfBp4VB6NGf/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">I am A web and mobile app developer & Real-time firebase Developer based in Pakistan.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-raza&label=Profile%20views&color=0e75b6&style=flat" alt="umar-raza" /> </p>
