@@ -3,7 +3,9 @@
 </picture>
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">I am A web and mobile app developer & Real-time firebase Developer based in Pakistan.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-raza&label=Profile%20views&color=0e75b6&style=flat" alt="umar-raza" /> </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=umar-raza&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
@@ -33,9 +35,5 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=umar-raza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=umar-raza&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=umar-raza&limit=5&theme=cobalt&hide&combine_all_yearly_contributions=true)
 
