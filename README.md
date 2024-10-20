@@ -1,7 +1,5 @@
 <picture align="center">
   ![Alt text](https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ)
-
-![Muhammad Umar](https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ)
 </picture>
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">I am A web and mobile app developer & Real-time firebase Developer based in Pakistan.</h3>
