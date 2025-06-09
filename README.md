@@ -2,18 +2,18 @@
   ![Alt text](https://unsplash.com/photos/closeup-photo-of-eyeglasses-w7ZyuGYNpRQ)
 </picture>
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">I am A web and mobile app developer & Real-time firebase Developer based in Pakistan.</h3>
+<h3 align="center">I am a web, mobile app & Real-time firebase Developer based in Pakistan.</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umar-raza&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nextjs, Supabase**
 
 - 👨‍💻 All of my projects are available at [https://mu-portfolio.web.app/](https://mu-portfolio.web.app/)
 
-- 💬 Ask me about **Reactjs,Goggle Firebase**
+- 💬 Ask me about **Reactjs, Firebase**
 
 - 📫 How to reach me **umardev92@gmail.com**
 
